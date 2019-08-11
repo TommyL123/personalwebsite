@@ -1,0 +1,44 @@
+{
+  "name": "tommy_personal",
+  "version": "1.0.0",
+  "private": true,
+  "homepage": "https://TommyL123.github.io/tommy_personal",
+  "description": "personal website",
+  "main": "index.js",
+  "dependencies": {
+    "gh-pages": "^2.0.1",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3",
+    "react-scripts": "2.1.5",
+    "travis": "^0.1.1",
+    "yarn": "^1.13.0"
+  },
+  
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+    
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://TommyL123.github.io/personalwebsite"
+  },
+  "author": "tommylik",
+  "license": "ISC"
+  
+  
+}
