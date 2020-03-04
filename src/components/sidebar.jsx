@@ -30,15 +30,7 @@ export default class Sidebar extends Component {
                 <li><a href="https://github.com/TommyL123" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></li>
               </ul>
             </nav>
-            <div className="colorlib-footer">
-              <p><small>
-                  Made with primarily with react.js :) <br></br>
-                   
-              </small></p>
-              <p><small>
-                pls hire me
-              </small></p>
-            </div>
+            
           </aside>
         </div>
       </div>
