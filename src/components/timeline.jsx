@@ -21,8 +21,8 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Seeking new career opportunities <span> present</span></h2>
-                        <p> As a new graduate, I am seeking new opportunities in Software Engineering to further enhance and apply my skills. I love meeting new people and being challenged on new projects. I have a deep passion in frontend development and want to learn as much as I possibly can!</p>
+                        <h2>Implementation Engineer at Side <span> Nov 2019 - present</span></h2>
+                        <p> Currently working in a high-tech start up focusing on changing the state of Real Estate. </p>
                       </div>
                     </div>
                   </article>
@@ -32,7 +32,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>California Academy of Sciences<span> 2018 - present </span></h2>
+                        <h2>California Academy of Sciences<span> July 2018 - Oct 2019 </span></h2>
                         <p>Working in the Guest Experience department, I am constantly working with new teammates to ensure quality service to all guests as well as maintain efficient operations of every exhibit. Beyond this, I am also responsible for all guest relations involving memberships, payments, and overall guest experience. Through these experiences I have been able to provide platinum service and display an exceptional quality of work everyday.</p>
                       </div>
                     </div>
